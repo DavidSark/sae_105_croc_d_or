@@ -1,0 +1,26 @@
+:root{/* Color styles */
+--noir: rgba(0, 0, 0, 1);
+--gris: rgba(71, 70, 70, 1);
+--bordeau: rgba(87, 3, 3, 1);
+--orange: rgba(255, 190, 0, 1);
+--blanc_gris: rgba(247, 245, 245, 1);
+--blanc: rgba(255, 255, 255, 1);
+
+/* Text-size styles */
+/* base size: corps (20px) */
+--titre-h1: 1.82rem;
+--corps: 1.25rem;
+--text-menu: 1.5rem;
+--titre-footer: 0.9rem;
+--en-tête: 1.25rem;
+--text-footer: 0.6rem;
+--titre-h2: 1.63rem;
+--titre-h3: 1.63rem;
+--citation-italic: 1.45rem;
+--citation: 1.45rem;
+--citation-menu: 0.85rem;
+
+/*Ajout de police*/
+--police-raleway: 'Raleway', sans-serif;
+--police-roboto: 'Roboto', sans-serif;
+}

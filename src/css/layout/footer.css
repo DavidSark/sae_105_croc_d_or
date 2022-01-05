@@ -1,0 +1,34 @@
+.bloc__footer{
+    background-color: var(--gris);
+    color: var(--blanc);
+    font-family: var(--police-roboto);
+    font-size: var(--titre-footer);
+    text-align: center;
+}
+
+.logo__footer{
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.auteur__footer{
+    margin: 0;
+    padding: 0;
+    color: var(--blanc);
+}
+
+.social__footer{
+    margin-top: 4%;
+    margin-right: 5%;
+}
+
+.texte__footer{
+    font-size: var(--text-footer);
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0;
+    padding: 0;
+    color: var(--blanc);
+}
