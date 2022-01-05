@@ -35,7 +35,7 @@ function carrousel() {
             if (ind == 2) return (3*delta)+(2*d);
             if (ind == 3) return (4*delta)+(3*d);
             if (ind == 4) return (5*delta)+(4*d);
-            return (6*delta)+(5*d);
+            return delta;
         }
     });
 }
