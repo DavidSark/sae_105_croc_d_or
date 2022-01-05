@@ -7,9 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Croc d'Or</title>
     <link rel="stylesheet" href="src/css/style.css">
+    <script src="https://animejs.com/lib/anime.min.js"></script>
+	<script defer="" src="https://unpkg.com/alpinejs@3.2.2/dist/cdn.min.js"></script>
+    <script src="src/js/fonctions.js"></script>
 </head>
 
-<body class=" ">
+<body>
     <header class="header">
         <div class="debut__header">
             <h1 class="titre1"><a class="titre__lien" href="index.html">Croc d'or</a></h1>
@@ -92,10 +95,19 @@
         <p class="paragraphe__video">Vidéo de la réplique</p>
     </div>
 
-    <div class="bloc__img">
-        <img class="img1" src="public/img/affiche_caricature.webp" alt="affiche carricaturale 1">
-        <img class="img2" src="public/img/affiche_caricature-1.webp" alt="affiche carricaturale 2">
+
+<div x-data="{animation: true}" class="animation__image">
+    <div x-on:click="animation ? animation=false : animation=true;"class="bloc__img" >
+        <img x-show="animation"class="image__anime1" src="public/img/affiche_caricature.webp" alt="affiche carricaturale 1">
     </div>
+
+    <div x-on:click="animation ? animation=false : animation=true;"class="bloc__img">
+        <img x-show="!animation" class="image__anime2" src="public/img/affiche_caricature-1.webp" alt="affiche carricaturale 2">
+    </div>
+</div>
+
+
+
 
     <div class="ligne__separation">
 
