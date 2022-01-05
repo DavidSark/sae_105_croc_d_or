@@ -1,0 +1,47 @@
+.conteneur__formulaire{
+    margin-left: 5%;
+    margin-right: 5%;
+      text-align: center;
+  }
+  input{
+    margin-top: 5px;
+    width: 278px;
+    height: 51px;
+    box-sizing: border-box;
+    border: 2px solid var(--gris);
+    color: var(--gris);
+    background-color: var(--blanc);
+}
+
+label{  
+    display: inline-block;
+    width: 90px;
+    font-family: var(--police-roboto);
+    font-size: var(--en-tête);
+
+  }
+
+  textarea{
+    height: 15em;
+    margin-top: 5px;
+    width: 345px;
+    height: 199px;
+    box-sizing: border-box;
+    background-color: var(--blanc);
+    border: 2px solid var(--gris);
+    color: var(--gris);
+    font-family: var(--police-roboto);
+    font-size: var(--en-tête);
+  }
+
+  .boutton__envoyer2{
+    display: inline-block;
+    width: 99px;
+    height: 35px;
+    margin-left: 70%;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: transparent;
+    color: var(--gris);
+    border: 2px solid var(--gris);
+  }

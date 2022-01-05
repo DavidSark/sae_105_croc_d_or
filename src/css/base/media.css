@@ -1,0 +1,101 @@
+img {
+    max-width: 100%;
+    height: auto;
+} 
+
+.loup__body{
+    margin-top: 25%;
+}
+
+.bloc__fleche{
+   text-align: center;
+}
+
+.bloc__video{
+    border: 2px solid black;
+    width: 90vw;
+    height: 45vw;
+    margin: 5%;
+    text-align: center;
+}
+
+.paragraphe__video{
+    margin-top: 22%;
+}
+
+.bloc__img{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.img1{
+    margin-right: 1.8%;
+}
+
+.img2{
+    margin-left: 1.8%;
+}
+
+.ligne__separation{
+    background-color: var(--bordeau);
+    width: 80%;
+    height: 2px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 9%;
+}
+
+.img__article1, .img__article3{
+    width: 50%;
+}
+
+.img__article2{
+    position: absolute;
+    top: 20%;
+}
+
+.bloc__hommeloup,.bloc__sellpen,
+.bloc__stratton, .bloc__4themes,
+.bloc__jordan,.bloc__loup,
+.bloc__scorsese1, .bloc__scorsese2,
+.bloc__scorsese3, .bloc__scorsese4,
+.bloc__livre1,.bloc__vrailoup,
+.bloc__corrompre, .bloc__arrestation,
+.bloc__livreauteur, .bloc__juliette{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.bloc__autresprojets{
+    text-align: center;
+}
+
+.bloc__autresprojets2{
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.ligne__separation2{
+    background-color: var(--bordeau);
+    width: 80%;
+    height: 2px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 9%;
+    margin-top: 10%;
+}
+
+
+.bloc__caroussel{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.image__carrousel{
+    width: 169px;
+    height: 227px;
+    border: 2px solid red;
+    position: relative;
+    top: 50%;
+    left: 27%;
+}

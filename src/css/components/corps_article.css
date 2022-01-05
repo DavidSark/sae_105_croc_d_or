@@ -1,0 +1,269 @@
+.citation__1{
+    font-family: var(--police-raleway);
+    font-size: var(--citation);
+    text-align: center;
+    color: var(--bordeau);
+}
+
+.citation1{
+    font-family: var(--police-raleway);
+    color: var(--bordeau);
+}
+
+.citation__3{
+    font-family: var(--police-raleway);
+    font-size: var(--citation);
+    color: var(--bordeau);
+    
+}
+
+.bloc__citation3{
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.bloc__citation1{
+    text-align: center;
+}
+
+.bloc__paragraphe1{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.paragraphe__1{
+    font-size: var(--corps);
+}
+
+.bloc__article1, .bloc__article2,
+.bloc__article3{
+    background-color: var(--gris);
+    margin: 5%;
+    display: flex;
+    position: relative;
+    height: 253.56px
+}
+
+.bloc__article2{
+    background-color: var(--bordeau);
+}
+
+.fleche__droite{
+    position: absolute;
+    right: 3%;
+    bottom: 3%;
+}
+
+.paragraphe__article1{
+    color: var(--blanc);
+    padding: 6%;
+    font-size: var(--corps);    
+}
+.sousbloc__article1{
+    margin: 5%;
+}
+
+.sousbloc__article2{
+   width: 196.81px;
+   margin-left: 41%;
+}
+.paragraphe__article2{
+    color: var(--blanc);
+    padding: 5% 10% 10% 10%;
+    font-size: var(--corps);  
+    margin:0 ;
+    margin-left: 5%;
+}
+
+.bloc__article3{
+    margin-bottom: 9%;
+}
+
+.paragraphe__article3{
+    
+    color: var(--blanc);
+    font-size: var(--corps);  
+    padding-top: 5%;
+    margin:0 ;
+    margin-left: 5%;
+}
+
+.bloc__h2{
+    margin-top: 27%;
+    margin-right: 0;
+    text-align: center;
+}
+
+.titre__h2{
+    margin-bottom: 0;
+}
+
+.sous__titre{
+    margin: 0;
+    font-family: var(--police-raleway);
+    font-size: 26px;
+    font-style: italic;  
+    color: var(--gris);
+    margin-bottom: 5%;
+}
+
+.bloc__entete{
+    margin-right: 5%;
+    margin-left: 5%;
+    font-size: var(--en-tête);
+    font-style: italic;
+    text-align: center;
+}
+.paragraphe__entete{
+    font-size: var(--en-tête);
+}
+
+.bloc__h3{
+    margin-left:  5%;
+    margin-right: 5%;
+}
+
+.blocparagraphe__article{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: var(--corps);
+}
+
+blockquote{
+    font-family: var(--police-raleway);
+    font-size: var(--citation-italic);
+    font-style: italic;
+}
+
+.bloc__achete{
+    font-family: var(--police-roboto);
+    font-size: var(--titre-h3);
+    text-align: center;
+}
+
+.paragraphe__achete{
+    margin-bottom: 2%;
+    color: var(--bordeau);
+}
+
+.bloc__fin{
+    font-family: var(--police-raleway);
+    font-size: var(--citation);
+    margin-right: 15%;
+    margin-left: 20%;
+    position: relative;
+    margin-bottom: 5%;
+}
+
+.paragraphe__fin{
+    margin: 0;
+    padding: 0;
+}
+
+.fleche__fin{
+    position: absolute;
+    bottom: -15%;
+    right: 25%;
+}
+
+.bloc__fin2{
+    font-family: var(--police-raleway);
+    font-size: var(--citation);
+    margin-right: 15%;
+    margin-left: 20%;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10%;
+}
+
+.paragraphe__fin2{
+    margin: 0;
+    margin-top: 25%;
+    padding: 0;
+}
+
+.fleche__fin2{
+    position: absolute;
+    bottom: -50%;
+    right: 45%;
+}
+
+.bloc__galerie{
+    font-family: var(--police-raleway);
+    font-size: var(--citation);
+    margin-right: 15%;
+    margin-left: 20%;
+    margin-top: 15%;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10%;
+}
+.film1{
+    color: var(--gris);
+}
+.paragraphe__film1{
+    margin: 0;
+    padding: 0;
+}
+
+.bloc__credit, .bloc__formulaire{
+    color: var(--gris);
+    text-align: center;
+    margin-bottom: 15%;
+    font-size: var(--citation-italic);
+    font-style: italic;
+}
+
+.credit, .paragraphe__formulaire{
+    margin: 0;
+}
+
+.blocfin__acheter{
+    font-family: var(--police-raleway);
+    font-size: var(--citation);
+    margin-right: 10%;
+    margin-left: 10%;
+    position: relative;
+    margin-bottom: 10%;
+}
+
+.paragraphefin_acheter{
+    margin: 0;
+    padding: 0;
+}
+
+.bloc__memeauteur{
+    text-align: center;
+    font-size: var(--text-menu);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fleche__fin3{
+    position: absolute;
+    bottom: -8%;
+    left: 20%;
+
+}
+
+.livrewayofthewolf{
+    color: var(--gris);
+    font-family: var(--police-raleway);
+    font-size: var(--corps);
+    font-style: italic;
+}
+.bloc__àpropos{
+    margin-top: 27%;
+    margin-right: 0;
+    margin-bottom: 7%;
+    text-align: center;
+}
+  .para__autresprojets{
+      margin: 0;
+      font-size: var(--citation);
+  }
+
+  .para__titreautresprojets{
+      margin: 0;
+      font-size: var(--citation);
+  }
