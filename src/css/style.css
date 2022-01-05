@@ -22,3 +22,7 @@
 
 /*Import du javascript*/
 @import url("../fonction.js");
+
+
+/*Import de la page 404*/
+@import url("components/introuvable.css");

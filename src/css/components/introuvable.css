@@ -1,0 +1,101 @@
+.title_404 {
+    padding:20px;
+    text-align:center;
+    background-color:rgb(41, 41, 41);
+    color:white;
+    font-weight:400;
+    font-family:sans-serif;
+}
+.body_404 {
+    background-color: rgb(221, 221, 221);
+}
+.groupe1_404 {
+    margin-top:20px;
+    display: block;
+    padding:30px;
+    background-color: var(--bordeau);
+    text-align:center;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+
+}
+.groupe1_404 a{
+    color: white;
+    font-size:20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+}
+.groupe2_404 {
+    margin-top:20px;
+    display: block;
+    padding:30px;
+    background-color: var(--bordeau);
+    text-align:center;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+
+}
+.groupe2_404 a{
+    color: white;
+    font-size:20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+}
+.groupe3_404 {
+    margin-top:20px;
+    display: block;
+    padding:30px;
+    background-color: var(--bordeau);
+    text-align:center;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+
+}
+.groupe3_404 a{
+    color: white;
+    font-size:20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+}
+.groupe4_404 {
+    margin-top:20px;
+    display: block;
+    padding:30px;
+    background-color: var(--bordeau);
+    text-align:center;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+
+}
+.groupe4_404 a{
+    color: white;
+    font-size:20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+}
+.groupe5_404 {
+    margin-top:20px;
+    display: block;
+    padding:30px;
+    background-color: var(--bordeau);
+    text-align:center;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+
+}
+.groupe5_404 a{
+    color: white;
+    font-size:20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--police-roboto);
+    font-size: var(--corps);
+}
